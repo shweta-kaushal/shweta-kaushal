@@ -1,1 +1,1 @@
-I’m a Product Designer and currently building [Outpost](https://outpost.run) and [Kloudlite](https;//kloudlite.io).
+I'm currently building [Engram](https://engram.run) — a high-performance vector database with multimodal embedding space for modern AI and search systems.
